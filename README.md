@@ -12,19 +12,7 @@ It was designed as an even more minimal theme than my popular theme [Astro Spher
 
 ## 📋 Features
 
-- ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
+
 
 ## 💯 Lighthouse score
 ![Astro Nano Lighthouse Score](_lighthouse.png)
