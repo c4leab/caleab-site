@@ -17,16 +17,8 @@ const projects = (await getCollection("projects"))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0,SITE.NUM_PROJECTS_ON_HOMEPAGE);
 
-const allupdates = (await getCollection("now"))
-  .sort((a, b) => new Date(b.data.dateStart).valueOf() - new Date(a.data.dateStart).valueOf())
-  .slice(0,SITE.NUM_UPDATES_ON_HOMEPAGE);
 
-const now = await Promise.all(
-  allupdates.map(async (item) => {
-    const { Content } = await item.render();
-    return { ...item, Content };
-  })
-);
+
 
 ---
 
