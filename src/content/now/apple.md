@@ -1,8 +1,6 @@
 ---
-company: "Apple"
-role: "Software Engineer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
+sortDate: "2025-03-15"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+03/25 \
+Currently taking courses on weather science, scientific writing, math, and Africa. Also training for a half-marathon.
