@@ -36,7 +36,3 @@ The very aspect of living is an act of improving upon what is already there. Our
 What’s the best cell make for a person? It depends.
 
 A fixation with perfection is just a form of procrastination. 
-
-I have a growing suspicion that everyone (including me) knows exactly what they need to do. After a little reflection, it should pop up. So it’s not a matter of _what_ but _how_. Here’s a very, very unknown phrase that will answer the _how_.
-
-Just do it.
