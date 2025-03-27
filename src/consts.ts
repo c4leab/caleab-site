@@ -4,6 +4,7 @@ export const SITE: Site = {
   NAME: "Caleab",
   EMAIL: "caleabonyango@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 3,
+  NUM_WORKS_ON_HOMEPAGE: 0,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
 };
 
@@ -17,9 +18,9 @@ export const BLOG: Metadata = {
   DESCRIPTION: "Thoughts and Ideations",
 };
 
-export const NOW: Metadata = {
-  TITLE: "Now",
-  DESCRIPTION: "What I'm currently doing",
+export const WORK: Metadata = {
+  TITLE: "Work",
+  DESCRIPTION: "Where I have worked and what I have done.",
 };
 
 export const PROJECTS: Metadata = {
