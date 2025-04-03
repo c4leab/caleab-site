@@ -1,5 +1,5 @@
 ---
 title: beauty in limitation
-description: 
+description: the f
 date:
 ---
