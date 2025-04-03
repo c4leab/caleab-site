@@ -26,7 +26,7 @@ Something being done imperfectly is even better. Why? Because you can do a littl
 
 The basis of progress is that there is progress to be done. Without it, there’s no need for progress. Therefore, we shouldn’t shy away from Imperfection, but rather embrace it. <br>
 
-Instead of trying to figure out the best workout routine. Figure out what exercises you like to do and go from there. Instead of trying to figure out the best skin-care routine, just experiment with different products until you’ve got something that works. Same goes for practically every aspect of life.
+Instead of trying to figure out the best workout routine. Figure out what exercises you like to do and go from there. Instead of trying to figure out the best skin-care routine, just experiment with different products until you’ve got something that works. Same goes for practically every aspect of life. <br>
 
 The very aspect of living is an act of improving upon what is already there. Our cells continually adapt to our internal and external environment. If they don’t do it fast enough, we augment them with vaccines or die.
 
