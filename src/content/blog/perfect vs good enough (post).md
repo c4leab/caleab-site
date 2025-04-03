@@ -1,5 +1,5 @@
 ---
-title: Perfect vs good enough
+title: perfect vs good enough
 description: Procrastinations best friend
 date: Mar 25 2025
 ---
