@@ -1,5 +1,5 @@
 ---
 title: Spring vs Marathon
-description: Going fast v
+description: 
 date: Mar 17 2025
 ---
