@@ -8,7 +8,7 @@ Academics pushed the narrative that a 100% was a realistic outcome. Study well e
 “Perfect” is either unrealistic or flat-out does not exist in real life.
 
 My personal life is probably the best example of this. I spent hours upon hours researching the best workout routines, best hair-care routine (curly-heads know the struggle), the best skin-care routine, the best productivity routine, you name it. Hours, just to arrive at slightly different variations of the same answer: it depends.
-
+<>
 The best workout routine is the one that you can consistently do (it depends on you ability).
 
 The best hair-care routine is dependent on your hair texture and health.
