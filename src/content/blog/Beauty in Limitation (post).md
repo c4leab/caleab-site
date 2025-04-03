@@ -1,5 +1,5 @@
 ---
-title: 
+title: beauty i
 description: 
 date:
 ---
