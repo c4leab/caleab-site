@@ -30,6 +30,6 @@ Instead of trying to figure out the best workout routine. Figure out what exerci
 
 The very aspect of living is an act of improving upon what is already there. Our cells continually adapt to our internal and external environment. If they don’t do it fast enough, we augment them with vaccines or die. <br>
 
-What’s the best cell make for a person? It depends. 
+What’s the best cell make for a person? It depends. <br>
 
 A fixation with perfection is just a form of procrastination. 
