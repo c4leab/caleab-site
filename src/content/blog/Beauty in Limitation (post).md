@@ -20,5 +20,3 @@ It was intuitive because of it's simplicity. Write down a task, then cross it ou
 It was limited in that it didn't have folders, matrixs, tags, integrations etc. Also you can't just write an infinite amount of tasks on a sticky note. I found this to be the most important factor. It forced me to pick out tasks I actually had to do instead of just stockpiling on things I wanted to do. There's only so much time in a day, so that helped weed out the non-priority tasks. 
 
 It was after that I realized the beauty of limitations. Sometimes less is more. 
-
-I was going to waffle some more but I'll cut it there. 
