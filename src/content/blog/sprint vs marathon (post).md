@@ -1,5 +1,5 @@
 ---
 title: Spring vs Marathon
-description: 
+description: When to Go F
 date: Mar 17 2025
 ---
