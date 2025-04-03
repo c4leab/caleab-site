@@ -1,6 +1,6 @@
 ---
 title: 01 Terminal
-description: 
+description: Learning 
 date: Mar 14 2025
 ---
 
