@@ -15,9 +15,7 @@ The best hair-care routine is dependent on your hair texture and health. <br>
 
 The best productivity routine is the one that you can consistently stick to (Depends on the various psychological intricacies that govern your ability to do tasks). <br>
 
-When I started my professional life, I realized that no boss wants the job perfectly done (especially when you’re paid by the hour).
-
-Mopping the retail floor perfectly didn’t impress my boss more than the fact that the retail floor got mopped. Who cares if it’s perfectly done? It’s going to get dirty again.
+When I started my professional life, I realized that no boss wants the job perfectly done (especially when you’re paid by the hour). Mopping the retail floor perfectly didn’t impress my boss more than the fact that the retail floor got mopped. Who cares if it’s perfectly done? It’s going to get dirty again.
 
 Organizing files in alphabetical format didn’t impress my boss more than the fact that the files were given to the right people.
 
