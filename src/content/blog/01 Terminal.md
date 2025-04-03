@@ -1,5 +1,5 @@
 ---
-title: 
+title: 01 Terminal
 description: 
 date:
 ---
