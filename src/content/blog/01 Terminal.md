@@ -1,6 +1,6 @@
 ---
 title: 01 Terminal
-description: Learning How to use Term
+description: Learning How to use Terminal
 date: Mar 14 2025
 ---
 
