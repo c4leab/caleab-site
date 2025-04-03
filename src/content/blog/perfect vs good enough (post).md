@@ -24,9 +24,7 @@ In the real world, done is often better than perfect. <br>
 
 Something being done imperfectly is even better. Why? Because you can do a little better next time. Imperfection is what’s needed to reach perfection. How will you know what’s perfect without being familiar with what’s imperfect? <br>
 
-The basis of progress is that there is progress to be done. Without it, there’s no need for progress. Therefore, we shouldn’t shy away from 
-
-Imperfection, but rather embrace it.
+The basis of progress is that there is progress to be done. Without it, there’s no need for progress. Therefore, we shouldn’t shy away from Imperfection, but rather embrace it.
 
 Instead of trying to figure out the best workout routine. Figure out what exercises you like to do and go from there. Instead of trying to figure out the best skin-care routine, just experiment with different products until you’ve got something that works. Same goes for practically every aspect of life.
 
