@@ -17,14 +17,14 @@ const data = (await getCollection("blog"))
         Writing
       </div>
       <ul class="space-y-6">
-        <li>
         {data.map((post) => (
+          <li>
           <a href={`/blog/${post.slug}`} class="text-xl text-white font-semibold hover:underline">
                 {post.data.title}
           </a>
-          
+          </li>
         ))}
-        </li>
+  
       </ul>
     </div>
   </Container>
