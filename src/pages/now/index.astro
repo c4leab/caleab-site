@@ -1,43 +1,31 @@
 ---
-import { getCollection } from "astro:content";
 import PageLayout from "@layouts/PageLayout.astro";
 import Container from "@components/Container.astro";
-import { NOW } from "@consts";
 
-const collection = await getCollection("now");
-collection.sort((a, b) => new Date(b.data.sortDate) - new Date(a.data.sortDate));
-
-const now = await Promise.all(
-  collection.map(async (item) => {
-    const { Content } = await item.render();
-    return { ...item, Content };
-  })
-);
 ---
 
-<PageLayout title={NOW.TITLE} description={NOW.DESCRIPTION}>
+<PageLayout title="Now" description="What Caleab's up to">
   <Container>
-    <div class="space-y-10">
-      <ul class="flex flex-col space-y-4">
-        { 
-          now.map(entry => (
-            <li class="animate">
-              <div class="text-sm font-medium text-gray-500 dark:text-gray-400">
-                {entry.data.date}
-              </div>
-              <article>
-                <entry.Content />
-              </article>
-            </li>
-          ))
-        }
+    <div class="space-y-6 max-w-2xl">
+      <h1 class="text-4xl font-bold leading-tight animate text-black dark:text-white">
+        Now
+      </h1>
+      <h2 class="text-xl pt-24" >4/25</h2>
+      <p class="text-lg text-gray-700 dark:text-gray-300 animate">
+        Currently getting ready for final exams and the end of my freshmen year of university. <br />
+      </p>
+     
+      <h2 class="text-xl pt-24">3/25</h2>
+      <p class="text-lg text-gray-700 dark:text-gray-300 animate">
+       Taking these course:
+      </p>
+      <ul class="list-disc list-inside text-lg text-gray-700 dark:text-gray-300 animate">
+        <li>SCIE 113: First Year Seminar in Science</li>
+        <li>MATH 110: Differential Calculus</li>
+        <li>AFST 250: Introduction to African Studies</li>
+        <li>ATSC 113: Atmospheric and Weather Science</li>
       </ul>
-<!-- 
-      <ul class="animate flex flex-col gap-4">
-
-      </ul> -->
+      <p>While also training for a <a href="https://bmovanmarathon.ca/halfmarathon">half-marathon.</a></p>
     </div>
   </Container>
 </PageLayout>
-</file>
-</file>

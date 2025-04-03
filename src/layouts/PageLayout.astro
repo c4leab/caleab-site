@@ -12,18 +12,17 @@ const { title, description } = Astro.props;
   <body class="bg-white text-black dark:bg-black dark:text-white font-sans">
     <div class="min-h-screen flex max-w-5xl mx-auto px-6">
       <!-- Sticky sidebar -->
-      <aside class="w-1/3 sticky top-0 self-start py-20 hidden md:block">
-        <div class="space-y-6">
-          <h1 class="text-2xl font-bold">Caleab Onyango</h1>
+      <aside class="w-1/3 sticky top-0 h-screen hidden md:flex items-start pt-32 px-4">
+        <div class="flex flex-col space-y-6 items-start">
+       
           <nav class="text-sm space-y-2">
             <ul class="space-y-1">
-              <li><a href="/" class="hover:underline">Home</a></li>
-              <li><a href="/about" class="hover:underline">About</a></li>
-              <li><a href="/blog" class="hover:underline">Writing</a></li>
-              <li><a href="/now" class="hover:underline">Now</a></li>
+              <li><a href="/" >Caleab Onyango</a></li>
+              <li><a href="/blog" >Writing</a></li>
+              <li><a href="/now" >Now</a></li>
               <li>
                 <a href="/rss.xml" target="_blank" rel="noopener noreferrer" class="hover:underline">
-                  RSS 📡
+                  RSS 
                 </a>
               </li>
             </ul>
@@ -33,7 +32,7 @@ const { title, description } = Astro.props;
 
       <!-- Main content -->
       <main class="w-full md:w-2/3 py-20">
-        {Astro.slots.default()}
+        <slot />
       </main>
     </div>
   </body>
