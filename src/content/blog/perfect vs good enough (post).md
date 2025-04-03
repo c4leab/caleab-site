@@ -20,7 +20,7 @@ Mopping the retail floor perfectly didn’t impress my boss more than the fact t
 
 Organizing files in alphabetical format didn’t impress my boss more than the fact that the files were given to the right people. <br>
 
-In the real world, done is often better than perfect.
+In the real world, done is often better than perfect. <br>
 
 Something being done imperfectly is even better. Why? Because you can do a little better next time. Imperfection is what’s needed to reach perfection. How will you know what’s perfect without being familiar with what’s imperfect?
 
