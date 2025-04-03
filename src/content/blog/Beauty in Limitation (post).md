@@ -1,5 +1,5 @@
 ---
 title: beauty in limitation
-description: th
+description: 
 date:
 ---
