@@ -22,7 +22,7 @@ Organizing files in alphabetical format didn’t impress my boss more than the f
 
 In the real world, done is often better than perfect. <br>
 
-Something being done imperfectly is even better. Why? Because you can do a little better next time. Imperfection is what’s needed to reach perfection. How will you know what’s perfect without being familiar with what’s imperfect?
+Something being done imperfectly is even better. Why? Because you can do a little better next time. Imperfection is what’s needed to reach perfection. How will you know what’s perfect without being familiar with what’s imperfect? <br>
 
 The basis of progress is that there is progress to be done. Without it, there’s no need for progress. Therefore, we shouldn’t shy away from
 
