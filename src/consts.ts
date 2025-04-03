@@ -2,10 +2,7 @@ import type { Site, Metadata, Socials } from "@types";
 
 export const SITE: Site = {
   NAME: "Caleab",
-  EMAIL: "caleabonyango@gmail.com",
-  NUM_POSTS_ON_HOMEPAGE: 3,
-  NUM_WORKS_ON_HOMEPAGE: 0,
-  NUM_PROJECTS_ON_HOMEPAGE: 3,
+  EMAIL: "caleabonyango@gmail.com"
 };
 
 export const HOME: Metadata = {
@@ -15,24 +12,10 @@ export const HOME: Metadata = {
 
 export const BLOG: Metadata = {
   TITLE: "Writing",
-  DESCRIPTION: "Thoughts and Ideations",
-};
-
-export const WORK: Metadata = {
-  TITLE: "Work",
-  DESCRIPTION: "Where I have worked and what I have done.",
-};
-
-export const PROJECTS: Metadata = {
-  TITLE: "Projects",
-  DESCRIPTION: "A collection of my projects, with links to repositories and demos.",
+  DESCRIPTION: "Thoughts and Ideas",
 };
 
 export const SOCIALS: Socials = [
-  /*{ 
-    NAME: "twitter-x",
-    HREF: "https://twitter.com/markhorn_dev",
-  }, */
   { 
     NAME: "github",
     HREF: "https://github.com/c4leab"
