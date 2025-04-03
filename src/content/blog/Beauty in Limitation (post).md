@@ -1,5 +1,5 @@
 ---
 title: beauty in limitation
-description: the pos
+description: the postive 
 date:
 ---
