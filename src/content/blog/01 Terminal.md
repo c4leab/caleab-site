@@ -1,7 +1,7 @@
 ---
 title: 01 Terminal
 description: 
-date:
+date: Mar 14 
 ---
 
 I’ve been meaning to try to learn how to use terminal for 3 reasons:
