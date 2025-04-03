@@ -28,8 +28,8 @@ The basis of progress is that there is progress to be done. Without it, there’
 
 Instead of trying to figure out the best workout routine. Figure out what exercises you like to do and go from there. Instead of trying to figure out the best skin-care routine, just experiment with different products until you’ve got something that works. Same goes for practically every aspect of life. <br>
 
-The very aspect of living is an act of improving upon what is already there. Our cells continually adapt to our internal and external environment. If they don’t do it fast enough, we augment them with vaccines or die.
+The very aspect of living is an act of improving upon what is already there. Our cells continually adapt to our internal and external environment. If they don’t do it fast enough, we augment them with vaccines or die. <br>
 
-What’s the best cell make for a person? It depends.
+What’s the best cell make for a person? It depends. 
 
 A fixation with perfection is just a form of procrastination. 
