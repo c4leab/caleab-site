@@ -1,5 +1,5 @@
 ---
-title: beauty i
+title: beauty in limitation
 description: 
 date:
 ---
