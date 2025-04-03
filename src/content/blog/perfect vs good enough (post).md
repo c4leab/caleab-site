@@ -3,7 +3,7 @@ title: Perfect vs good enough
 description: Procrastinations best friend
 date: Mar 25 2025
 ---
-Academics pushed the narrative that a 100% was a realistic outcome. Study well enough for a long enough period of time and you’ll do perfectly on the upcoming quiz. That works well in Academics but falls apart in real life.
+Academics pushed the narrative that a 100% was a realistic outcome. Study well enough for a long enough period of time and you’ll do perfectly on the upcoming quiz. That works well in Academics but falls apart in real life. <br>
 
 “Perfect” is either unrealistic or flat-out does not exist in real life. <br>
 
